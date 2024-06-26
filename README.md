@@ -6,7 +6,7 @@
 2024.03.21 ~ 2024.04.16
 
 ## ERD
-![ERD이미지]()
+![ERD이미지](https://github.com/sprintkim/applefarm/blob/91fe9fe3aa68fb594c6f46f8010e3033b2974dc5/ERD_Applefarm.png)
 
 ## 개발 환경 및 기술 스택
 ### 백엔드
